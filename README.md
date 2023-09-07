@@ -1,6 +1,6 @@
 # ⚡Vite + ⚛️React + 💙TypeScript
 
-Template for React + TypeScript projects using Vite
+Template for ⚛️React + 💙TypeScript projects using ⚡Vite
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
